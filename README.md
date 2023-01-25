@@ -6,9 +6,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luneciux&theme=dark&show_icons=true" />
     <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luneciux&theme=dark&show_icons=true)-->
   </a>
-  <a href="https://github.com/luneciux">
+  
     <img align="center" justify="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luneciux&layout=compact&theme=dark" />
-  </a>
+  
 </div>
 
 <!---
