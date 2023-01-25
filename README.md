@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/luneciux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux" />
 </a>
 <a href="https://github.com/luneciux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux" />
 </a>
 
 <!---
