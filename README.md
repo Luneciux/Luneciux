@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/luneciux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux&repo=luneciux" />
 </a>
 <a href="https://github.com/luneciux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux" />
