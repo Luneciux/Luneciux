@@ -2,7 +2,12 @@
 - 👀 I’m interested in web development
 
 
-[![luneciux](https://github-readme-stats.vercel.app/api/top-langs/?username=luneciux&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/luneciux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/luneciux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luneciux&repo=convoychat" />
+</a>
 
 <!---
 Luneciux/Luneciux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
