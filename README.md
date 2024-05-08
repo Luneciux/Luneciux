@@ -1,7 +1,7 @@
 # Hi there! 👋
 ## Welcome to my GitHub profile!
 
-I'm Josué Eliel, a passionate Software Engineer with experience in WEB Development, QA, and other roles. I like to build Web Solutions, exploring new technologies, and contributing to open-source projects.
+### I'm Josué Eliel, a passionate Software Engineer with experience in WEB Development, QA, and other roles. I like to build Web Solutions, exploring new technologies, and contributing to open-source projects.
 
 # 🔧 Technologies & Tools
 ### Programming Languages: Javascript | Typescript | Python | Java
