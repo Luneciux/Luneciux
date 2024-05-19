@@ -4,10 +4,10 @@
 I'm Josué Eliel, a passionate Software Engineer with experience in WEB Development, QA, and other roles. I like to build Web Solutions, exploring new technologies, and contributing to open-source projects.
 
 ### 🔧 Technologies & Tools
-*Programming Languages:* Javascript | Typescript | Python | Java
-*Frameworks & Libraries:* React.js | Vue.js | Node.js | Express | Cypress | Robotframework
-*Databases:* Postgree SQL | Mongo DB | Maria DB | Firebase
-*Tools:* Dbeaver | Postman | VS Code
+* Programming Languages: * Javascript | Typescript | Python | Java
+* Frameworks & Libraries: * React.js | Vue.js | Node.js | Express | Cypress | Robotframework
+* Databases: * Postgree SQL | Mongo DB | Maria DB | Firebase
+* Tools: * Dbeaver | Postman | VS Code
 
 # 🌱 I’m currently learning
 ### - I'm currently focused on enhancing my skills in web development, design patterns, architecture, and data structure issues. Also, I'm aiming to learn Spring and Python for backend. Some of the technologies I'm exploring include Spring, React, Node, and others.
